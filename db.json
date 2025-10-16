@@ -1,4 +1,4 @@
 {
-  "status": "test",
-  "message": "モックデータです"
+  "status": "fetch_test",
+  "message": "データを更新しました"
 }
