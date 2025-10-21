@@ -1,4 +1,5 @@
 {
-  "status": "fetch_test",
-  "message": "データを更新しました"
+  "status": "0",
+  "observation_deck": "空いている",
+  "isaribi_park": "やや混雑"
 }
